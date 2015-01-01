@@ -1,0 +1,66 @@
+@CHARSET "ISO-8859-1";
+body{
+	font-family:arial;
+	color:#666;
+}
+form input{
+	border:2px solid #dadada;
+    border-radius:7px;
+    font-size:15px;
+    padding:7px;
+	width:250px;
+}
+
+input:focus { 
+    outline:none;
+    border-color:#9ecaed;
+    box-shadow:0 0 10px #9ecaed;
+}
+
+form .button{
+	background: -moz-linear-gradient(top,  #00b7ea 21%, #009ec3 76%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(21%,#00b7ea), color-stop(76%,#009ec3)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #00b7ea 21%,#009ec3 76%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #00b7ea 21%,#009ec3 76%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #00b7ea 21%,#009ec3 76%); /* IE10+ */
+	background: linear-gradient(to bottom,  #00b7ea 21%,#009ec3 76%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 ); /* IE6-9 */
+	color:#DFE9EC;
+	border:none;
+	cursor:pointer;
+	padding:5px;
+}
+.txt_div{
+	float:left;
+	width:500px;
+	margin-bottom:10px;
+}
+.left{
+	float:left;
+	width:250px;
+}
+.left-align{
+	float:left;
+	width:800px;
+}
+.right{
+	float:right;
+	padding-top: 11px;
+}
+img{
+	cursor:pointer;
+}
+
+
+.container {
+	background-color: #fff;
+	width: 1100px;
+	position: relative;
+	margin: 0 auto;
+	padding: 10px 0;
+	border: 1px solid #A39A9A;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 10px;
+}

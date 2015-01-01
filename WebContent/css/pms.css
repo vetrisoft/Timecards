@@ -1,0 +1,91 @@
+body{
+margin:0px;
+}
+.htitle1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+	background-color: #1E7AC3;
+	padding-left: 25px;
+	text-align: left;
+	font-weight: bold;
+}
+.htitle2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #1E7AC3;
+	padding-right: 15px;
+	text-align: right;
+	font-weight: bold;
+}
+.hmenu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	font-weight: bold;
+}
+.text1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-align: justify;
+}
+.frmborder{
+	border: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #c9c9c9;
+}
+.vmenu{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	height:28px;
+	background-color: #E8E8E8;
+	padding-top: 15px;
+	padding-right: 5px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	border: solid;
+	border-width: 0px 0px 1px 0px;
+	border-color: #777777;
+}
+.vmenu a:link{
+	text-decoration: none;
+	color: #000000;
+}
+.vmenu a:visited{
+	text-decoration: none;
+	color: #000000;
+}
+.vmenu a:hover{
+	text-decoration: none;
+	color: #1E7AC3;
+	font-weight: bold;
+}
+.header1{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #1E7AC3;
+	border: solid;
+	border-width: 0px 0px 1px 0px;
+	border-color: #1E7AC3;
+}
+.title1{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #555555;
+	text-align: right;
+}
+.myform{
+	color: #555555;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}

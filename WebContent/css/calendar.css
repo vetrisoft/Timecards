@@ -1,0 +1,9 @@
+.ui-datepicker {
+	width: 13em;
+	padding: .2em .2em 0;
+	display: none;
+}
+.ui-widget-content {
+	border: 1px solid #2010D6;
+	background: #ffffff url(images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+}
